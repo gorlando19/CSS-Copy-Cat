@@ -1,0 +1,93 @@
+* {
+  /* border: 1px solid gold;   */
+}
+button {
+  background-color: #4F2C1D;
+  color: white;
+}
+.main-nav{
+  background-color: #f8f9fa;;
+}
+#header{
+  width: 60%;
+  margin: auto;
+}
+.buttons{
+  margin-left: 10px;
+}
+ .carousel {
+  width: 60%;
+  height: 100%;
+  margin: auto;
+}
+
+img {
+  margin: auto;
+  width: 400px;
+  height: 500px;
+  object-fit: scale-down;
+}
+.container{
+  margin-top: 2em;
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.span{
+  border: 1px solid #4F2C1D;
+  text-align: center;
+  display:inline-block;
+  width:40%;
+  height: 100px;
+  align-items: center;
+  margin: auto;
+}
+.span h3{
+  width: 100%;
+  font-size: 2em;
+  background-color: #4F2C1D;
+  color: white;
+}
+footer{
+  margin-top:50px;
+}
+#nav-footer ul{
+  list-style: none;
+}
+#nav-footer li {
+  margin-left: 10px;
+  display: inline-block;
+  text-align: left;
+}
+footer a{
+  color:#4F2C1D;
+}
+#nav-footer{
+  margin:auto;
+  width: 60%;
+  text-align: left;
+  font-size: 0.8em;
+}
+#nav-footer ul{
+margin: 0;
+padding: 0; 
+display: inline-block;
+}
+.rights{
+  color:#4F2C1D;
+  width: 60%;
+  margin: auto;
+}
+.help {
+  width: 100%;
+  text-align: right;
+  padding-right: 40px;
+}
+
+.help button{
+  height: 2em;
+  width: 4em;
+  font-size: 1.5em;
+  background-color: #4F2C1D;
+  color: white;
+}
